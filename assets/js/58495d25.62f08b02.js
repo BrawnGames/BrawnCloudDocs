@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrawncloud=self.webpackChunkbrawncloud||[]).push([[9601],{5148:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/BrawnCloudDocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
